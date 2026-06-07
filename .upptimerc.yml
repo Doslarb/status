@@ -29,7 +29,7 @@ sites:
       - "Content-Type: application/json"
     body: '{}'
   - name: STT Engine Health
-    url: https://whisper.doslarb.cloud/health
+    url: https://speech-to-text.doslarb.cloud/health
     expectedStatusCodes:
       - 200
 
