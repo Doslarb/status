@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "doslarb-cloud-status",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      ".github/**",
+      "scripts/**"
+    ],
+    "cleanUrls": true
+  }
+}
