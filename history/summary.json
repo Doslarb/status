@@ -76,17 +76,17 @@
     "url": "https://doslarb.cloud/api/v1/ping",
     "icon": "https://icons.duckduckgo.com/ip3/doslarb.cloud.ico",
     "slug": "api-ping-auth",
-    "status": "up",
-    "uptime": "0.76%",
-    "uptimeDay": "0.76%",
-    "uptimeWeek": "0.76%",
-    "uptimeMonth": "0.76%",
-    "uptimeYear": "0.76%",
-    "time": 1117,
-    "timeDay": 1117,
-    "timeWeek": 1117,
-    "timeMonth": 1117,
-    "timeYear": 1117,
+    "status": "down",
+    "uptime": "70.74%",
+    "uptimeDay": "70.74%",
+    "uptimeWeek": "70.74%",
+    "uptimeMonth": "70.74%",
+    "uptimeYear": "70.74%",
+    "time": 848,
+    "timeDay": 848,
+    "timeWeek": 848,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2026-06-07": 94
     }
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/whisper.doslarb.cloud.ico",
     "slug": "stt-engine-health",
     "status": "down",
-    "uptime": "0.36%",
-    "uptimeDay": "0.36%",
-    "uptimeWeek": "0.36%",
-    "uptimeMonth": "0.36%",
-    "uptimeYear": "0.36%",
+    "uptime": "14.09%",
+    "uptimeDay": "14.09%",
+    "uptimeWeek": "14.09%",
+    "uptimeMonth": "14.09%",
+    "uptimeYear": "14.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-07": 94
+      "2026-06-07": 277
     }
   }
 ]
