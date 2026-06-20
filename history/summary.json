@@ -150,21 +150,21 @@
     "url": "https://speech-to-text.doslarb.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/speech-to-text.doslarb.cloud.ico",
     "slug": "stt-engine-health",
-    "status": "down",
-    "uptime": "96.78%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
-    "time": 873,
-    "timeDay": 438,
-    "timeWeek": 843,
-    "timeMonth": 873,
-    "timeYear": 873,
+    "status": "up",
+    "uptime": "95.69%",
+    "uptimeDay": "85.58%",
+    "uptimeWeek": "94.83%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "95.69%",
+    "time": 889,
+    "timeDay": 676,
+    "timeWeek": 874,
+    "timeMonth": 889,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2026-06-07": 277,
       "2026-06-18": 314,
-      "2026-06-20": 0
+      "2026-06-20": 208
     }
   }
 ]
