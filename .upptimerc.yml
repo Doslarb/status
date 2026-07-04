@@ -1,4 +1,4 @@
-# doslarb-status — Upptime config (CEREMONY-01 D-28 — 9 probes)
+# doslarb-status — Upptime config (CEREMONY-01 D-28 + OPS-01 v2.3 — 10 probes)
 owner: Doslarb
 repo: status
 user-agent: doslarb-uptime/1.0
@@ -32,14 +32,19 @@ sites:
     url: https://speech-to-text.doslarb.cloud/health
     expectedStatusCodes:
       - 200
+  - name: TTS Engine Health
+    url: https://text-to-speech.doslarb.cloud/health
+    expectedStatusCodes:
+      - 200
 
 status-website:
   cname: status.doslarb.cloud
   name: Doslarb Status
   logoUrl: https://doslarb.cloud/logos/doslarb.png
+  favicon: https://doslarb.cloud/favicon.ico
   theme: light
   introTitle: "Doslarb Cloud Status"
-  introMessage: "Live uptime for doslarb.cloud, our API, the NAS Zero Link payment surface, and the STT engine."
+  introMessage: "Live uptime for doslarb.cloud, our API, the NAS Zero Link payment surface, and the STT + TTS engines."
   navbar:
     - title: Home
       href: /
