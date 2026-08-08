@@ -1,7 +1,7 @@
 url: https://speech-to-text.doslarb.cloud/health
-status: up
-code: 200
-responseTime: 717
-lastUpdated: 2026-08-07T23:28:26.458Z
+status: down
+code: 502
+responseTime: 871
+lastUpdated: 2026-08-08T11:37:15.935Z
 startTime: 2026-06-07T12:40:04.791Z
 generator: Upptime <https://github.com/upptime/upptime>
