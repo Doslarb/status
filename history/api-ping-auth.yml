@@ -1,7 +1,7 @@
 url: https://doslarb.cloud/api/v1/ping
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2026-08-29T03:59:35.347Z
+status: down
+code: 525
+responseTime: 34
+lastUpdated: 2026-08-29T18:26:52.442Z
 startTime: 2026-06-07T12:39:47.321Z
 generator: Upptime <https://github.com/upptime/upptime>
