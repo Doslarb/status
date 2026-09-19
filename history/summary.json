@@ -164,11 +164,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/speech-to-text.doslarb.cloud.ico",
     "slug": "stt-engine-health",
     "status": "down",
-    "uptime": "93.91%",
+    "uptime": "93.83%",
     "uptimeDay": "28.04%",
-    "uptimeWeek": "21.06%",
-    "uptimeMonth": "81.44%",
-    "uptimeYear": "93.91%",
+    "uptimeWeek": "19.85%",
+    "uptimeMonth": "81.16%",
+    "uptimeYear": "93.83%",
     "time": 807,
     "timeDay": 510,
     "timeWeek": 330,
@@ -189,7 +189,7 @@
       "2026-09-13": 1101,
       "2026-09-18": 1099,
       "2026-09-17": 1440,
-      "2026-09-19": 0
+      "2026-09-19": 122
     }
   },
   {
@@ -198,11 +198,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/text-to-speech.doslarb.cloud.ico",
     "slug": "tts-engine-health",
     "status": "down",
-    "uptime": "92.47%",
+    "uptime": "92.37%",
     "uptimeDay": "28.05%",
-    "uptimeWeek": "21.07%",
-    "uptimeMonth": "81.44%",
-    "uptimeYear": "92.47%",
+    "uptimeWeek": "19.86%",
+    "uptimeMonth": "81.17%",
+    "uptimeYear": "92.37%",
     "time": 788,
     "timeDay": 543,
     "timeWeek": 340,
@@ -220,7 +220,7 @@
       "2026-09-13": 1101,
       "2026-09-18": 1099,
       "2026-09-17": 1440,
-      "2026-09-19": 0
+      "2026-09-19": 122
     }
   }
 ]
