@@ -163,16 +163,16 @@
     "url": "https://speech-to-text.doslarb.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/speech-to-text.doslarb.cloud.ico",
     "slug": "stt-engine-health",
-    "status": "down",
-    "uptime": "93.19%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "93.19%",
+    "status": "up",
+    "uptime": "93.10%",
+    "uptimeDay": "84.52%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "93.10%",
     "time": 798,
-    "timeDay": 762,
-    "timeWeek": 816,
-    "timeMonth": 743,
+    "timeDay": 799,
+    "timeWeek": 822,
+    "timeMonth": 746,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2026-06-07": 277,
@@ -195,7 +195,8 @@
       "2026-10-15": 1114,
       "2026-10-14": 1440,
       "2026-10-13": 806,
-      "2026-11-06": 0
+      "2026-11-07": 106,
+      "2026-11-06": 116
     }
   },
   {
@@ -203,17 +204,17 @@
     "url": "https://text-to-speech.doslarb.cloud/health",
     "icon": "https://icons.duckduckgo.com/ip3/text-to-speech.doslarb.cloud.ico",
     "slug": "tts-engine-health",
-    "status": "down",
-    "uptime": "92.35%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.33%",
-    "uptimeYear": "92.35%",
-    "time": 782,
-    "timeDay": 747,
-    "timeWeek": 787,
-    "timeMonth": 730,
-    "timeYear": 782,
+    "status": "up",
+    "uptime": "92.23%",
+    "uptimeDay": "84.53%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "92.23%",
+    "time": 783,
+    "timeDay": 793,
+    "timeWeek": 798,
+    "timeMonth": 735,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2026-08-08": 149,
       "2026-08-23": 24,
@@ -231,7 +232,8 @@
       "2026-10-15": 1114,
       "2026-10-14": 1440,
       "2026-10-13": 806,
-      "2026-11-06": 0
+      "2026-11-07": 107,
+      "2026-11-06": 116
     }
   }
 ]
